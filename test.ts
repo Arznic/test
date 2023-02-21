@@ -1,1 +1,1 @@
-"detta är ett TextDecoderStream."
+"detta är ett Text test."
